@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Hola%2C+soy+Jorge+Steven+Lopez+Novoa;Java+Backend+Developer+Junior;QA+%7C+Datos+%7C+IA+aplicada+al+desarrollo" alt="Presentación animada de Jorge Lopez" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Hola%2C+soy+Jorge+Lopez;Java+Backend+Developer+Junior;QA+%7C+Datos+%7C+IA+aplicada+al+desarrollo" alt="Presentación animada de Jorge Lopez" />
 </div>
 
 <div align="center">
